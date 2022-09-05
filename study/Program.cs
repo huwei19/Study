@@ -9,7 +9,10 @@ namespace study
             //Console.WriteLine("Hello World!");
 
             //(1) 深浅复制
-            ShallowDeepCopy.Test();
+            //ShallowDeepCopy.Test();
+            int[] arr = { 4, 5, 6, 7, 0, 1, 2};
+            int aa =  XuanzhuanArray.Search(arr, 2);
+            Console.WriteLine(aa.ToString());
 
             Console.ReadLine();
         }

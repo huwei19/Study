@@ -16,9 +16,12 @@ namespace study
 
             //Multiply.Test("123","456");
 
-            Permute permute = new Permute();
-            int[] arr = { 1, 2, 3 };
-            permute.Test(arr);
+            //Permute permute = new Permute();
+            //int[] arr = { 1, 2, 3 };
+            //permute.Test(arr);
+
+            //54螺旋矩阵
+            SpiralOrder.Test();
 
             Console.ReadLine();
         }

@@ -21,7 +21,10 @@ namespace study
             //permute.Test(arr);
 
             //54螺旋矩阵
-            SpiralOrder.Test();
+            //SpiralOrder.Test();
+
+            //59螺旋矩阵2
+            GenerateMatrix.Test();
 
             Console.ReadLine();
         }

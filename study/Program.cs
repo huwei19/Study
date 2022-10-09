@@ -24,8 +24,10 @@ namespace study
             //SpiralOrder.Test();
 
             //59螺旋矩阵2
-            GenerateMatrix.Test();
+            //GenerateMatrix.Test();
 
+            ////88合并俩有序数组
+            Merge.Test();
             Console.ReadLine();
         }
     }

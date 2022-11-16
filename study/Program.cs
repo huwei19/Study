@@ -27,7 +27,11 @@ namespace study
             //GenerateMatrix.Test();
 
             ////88合并俩有序数组
-            Merge.Test();
+            //Merge.Test();
+
+            //[89] 格雷编码
+            GrayCode.Test();
+
             Console.ReadLine();
         }
     }

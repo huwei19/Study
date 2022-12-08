@@ -30,7 +30,12 @@ namespace study
             //Merge.Test();
 
             //[89] 格雷编码
-            GrayCode.Test();
+            //GrayCode.Test();
+
+            //215 数组中的第K个最大元素 topk快排
+            FindKthLargest.Test();
+
+
 
             Console.ReadLine();
         }
